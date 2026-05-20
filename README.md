@@ -6,10 +6,9 @@
 
 **Turn long-form podcasts into short-form clips. Locally. With your taste.**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-FF5500.svg)](LICENSE)
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-FF8C00.svg)](https://www.python.org/downloads/)
-[![ffmpeg](https://img.shields.io/badge/ffmpeg-required-0A0A0A.svg)](https://ffmpeg.org/)
-[![Status](https://img.shields.io/badge/status-public%20preview-FF8C00.svg)](#status)
+[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-brightgreen.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-public%20preview-brightgreen.svg)](#status)
 
 [Quick start](#quick-start) · [How it works](#how-it-works) · [Roadmap](#roadmap) · [Known issues](#known-issues) · [Contributing](CONTRIBUTING.md)
 
