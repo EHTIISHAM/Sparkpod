@@ -169,7 +169,10 @@ All config lives in `.env`. The interesting knobs:
 | `DEFAULT_TOP_N` | How many clips to keep per source |
 | `WHISPER_MODEL` | `small` for CPU, `large-v3` if you have a GPU |
 | `WHISPER_COMPUTE_TYPE` | `int8` on CPU, `float16` on GPU |
-
+| `RENDER_POLISH` | Polishing step 0 or 1 |
+| `RENDER_CROP` | cropping the clips 0 or 1 |
+| `RENDER_CAPTION` | caption rendering 0 or 1 |
+| `RENDER_FRAME` | rendering a frame like in instagram posts 0 or 1 |
 See `.env.example` for the full list with defaults and inline comments.
 
 ## Status
