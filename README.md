@@ -24,7 +24,7 @@ It does this by chaining together best-in-class open source pieces — yt-dlp, f
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/sparkpod.git
+git clone https://github.com/EHTIISHAM/sparkpod.git
 cd sparkpod
 pip install -r requirements.txt
 cp .env.example .env       # then edit: add GEMINI_API_KEY
